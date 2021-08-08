@@ -74,4 +74,4 @@ async def clear(ctx, amount=11):
 
 
 
-client.run('ODczMDAxNDU5ODU4NDMyMDcy.YQyD9w.3rn_bwvIosPWPmMkQLc0n9q11v4')
+client.run('TOKEN')
